@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60712b34faea2914f8419b9e4a65a72e
+timeCreated: 1511278921
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heatRocket: {fileID: 54966757499934870, guid: 3876e028bd84551449f876e346d1d9f3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
